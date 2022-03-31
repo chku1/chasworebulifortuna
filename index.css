@@ -1,0 +1,28 @@
+header {
+  height: 150px;
+  background-color: rgb(0, 34, 128);
+  text-align: center;
+}
+footer {
+  height: 100px;
+  background-color: rgb(122, 194, 236);
+  text-align: center;
+}
+nav {
+  height: 30px;
+}
+img {
+  width: 100px;
+}
+#btnRestart {
+  visibility: hidden;
+}
+
+#result {
+  font-size: 20px;
+  font-weight: bold;
+}
+#game_over {
+  font-size: 30px;
+  font-weight: bold;
+}
